@@ -6,5 +6,4 @@ Oi! Eu sou o Matheus!
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mathensousaa&count_private=true&show_icons=true&theme=tokyonight&bg_color=">
-  <img height="300em" src="(https://github-readme-stats.vercel.app/api/wakatime?username=mathensousaa)">
 </div>
