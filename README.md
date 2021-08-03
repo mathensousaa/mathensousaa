@@ -5,5 +5,5 @@ Oi! Eu sou o Matheus!
 🌱 Aprendendo HTML, CSS, PHP, SQL e Javascript.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathensousaa&count_private=true&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathensousaa&count_private=true&show_icons=true&theme=tokyonight">
 </div>
