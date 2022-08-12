@@ -1,7 +1,5 @@
 #Bem-vindo ao meu perfil! Eu sou o Matheus 👋##
 
-![](https://komarev.com/ghpvc/?username=mathensousaa&style=for-the-badge)
-
 #Sobre mim
 
 - 👨‍💻 **Frontend** Developer
