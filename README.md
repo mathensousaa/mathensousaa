@@ -1,5 +1,5 @@
 <h1 align="center">Bem-vindo ao meu perfil! Eu sou o Matheus 👋</h1>
-<h3 align="center">Um desenvolvedor frontend que ama aprender</h3>
+<h3 align="center">Todo dia descobrindo a programação</h3>
 
 - 👨‍💻 **Frontend** Developer
 - 🌱 Estudando **ReactJS**
