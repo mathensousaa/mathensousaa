@@ -1,9 +1,12 @@
 <h1 align="center">Bem-vindo ao meu perfil! Eu sou o Matheus 👋</h1>
 <h3 align="center">Um desenvolvedor frontend que ama aprender</h3>
 
+- 👨‍💻 **Frontend** Developer
+- 🌱 Estudando **ReactJS**
+- 🎓 Cursando o 2° semestre **Análise e desenvolvimento de Sistemas** no IFSP
 - 📖 Meu portfólio [mathensousaa.dev](mathensousaa.dev)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus-de-sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-de-sousa" height="30" width="40" /></a>
 </p>
