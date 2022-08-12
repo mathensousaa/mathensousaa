@@ -25,9 +25,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-
-
-<div>
+<div style="margin-top:25px">
   <a href="https://github.com/mathensousaa"><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathensousaa&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"></a>
   <a href="https://github.com/mathensousaa"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=mathensousaa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"></a>
 </div>
