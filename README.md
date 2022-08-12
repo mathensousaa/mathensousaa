@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! Eu sou o Matheus 👋
 
-## Sobre mim
+### Sobre mim
 
 - 👨‍💻 **Frontend** Developer
 - 🌱 Estudando **ReactJS**
