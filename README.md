@@ -3,8 +3,7 @@
 
 - 👨‍💻 **Frontend** Developer
 - 🌱 Estudando **ReactJS**
-- 🎓 Cursando o 2° semestre **Análise e desenvolvimento de Sistemas** no IFSP
-- 📖 Meu portfólio [mathensousaa.dev](mathensousaa.dev)
+- 🎓 Cursando o 3° semestre **Análise e desenvolvimento de Sistemas** no IFSP
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
