@@ -2,7 +2,7 @@
 <h3 align="center">Todo dia descobrindo a programação</h3>
 
 - 👨‍💻 Software Developer
-- 🎓 Cursando o 3° semestre **Análise e desenvolvimento de Sistemas** no IFSP
+- 🎓 Cursando o 4° semestre **Análise e desenvolvimento de Sistemas** no IFSP
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
