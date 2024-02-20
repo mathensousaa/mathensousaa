@@ -25,5 +25,5 @@
 </p>
 
 <div>
-  <a href="https://github.com/mathensousaa"><img align="left" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathensousaa&theme=aura"/></a>
+  <a href="https://github.com/mathensousaa"><img align="left" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathensousaa&theme=github_dark"/></a>
 </div>
