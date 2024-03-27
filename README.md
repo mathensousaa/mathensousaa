@@ -1,4 +1,4 @@
-![image](https://github.com/mathensousaa/mathensousaa/assets/88354244/1e4cf133-6ea2-4b65-82fa-cc993e72cf84)<h1 align="center">Bem-vindo ao meu perfil! Eu sou o Matheus 👋</h1>
+<h1 align="center">Bem-vindo ao meu perfil! Eu sou o Matheus 👋</h1>
 <h3 align="center">Todo dia descobrindo a programação</h3>
 
 - 👨‍💻 Software Developer
