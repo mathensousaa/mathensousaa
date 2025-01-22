@@ -1,7 +1,6 @@
 <h1 align="center">Bem-vindo ao meu perfil! Eu sou o Matheus 👋</h1>
 
 - 👨‍💻 Software Developer
-- 🎓 Cursando o 5° semestre **Análise e desenvolvimento de Sistemas** no IFSP
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
